@@ -1,0 +1,54 @@
+{
+  "plugins": [
+    {
+      "name": "navidrome",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_navidrome.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "wedav",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_webdav.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "youtube",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_youtube.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_bilibili.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "qqmusic",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_qqmusic.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "netease",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_netease.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "kuwo",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_kuwo.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "kugou",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_kugou.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "migu",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_migu.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "netease_fm",
+      "url": "https://love.leung.eu.org/musicfree-plugins/sinmite/s_netease_fm.js",
+      "version": "0.0.1"
+    }
+  ]
+}

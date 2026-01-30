@@ -1,0 +1,10 @@
+作者: Toskysun
+
+音源换源：
+音源界面 设置用户变量 留空默认netease
+
+支持：
+netease(默认)、tencent、tidal、spotify、ytmusic、qobuz、joox、deezer、migu、kugou、kuwo、ximalaya、apple
+
+其中：
+qobuz，apple，spotify，deezer搜索不可用

@@ -1,0 +1,11 @@
+https://mp.weixin.qq.com/s/BJGUDOd9tFGDJDeAshqj2w
+
+不过需要注意，用户名和密码这些是存储在本地的，具体路径是 C:\Users\laole\AppData\Roaming\MusicFree\config.json，且目前插件卸载后用户变量不会自动清空；使用时注意保护好自己的隐私，不要把这份配置文件发送给其他人~
+
+
+以手机版为例，程序中存储插件的路径是 Android/data/fun.upup.musicfree/files/plugins
+
+
+MusicFree 的包名是 fun.upup.musicfree，
+
+所以你可以尝试打开一下手机文件管理的 Android/data/fun.upup.musicfree/files/plugins 路径，你会发现一系列 xxx.js 文件

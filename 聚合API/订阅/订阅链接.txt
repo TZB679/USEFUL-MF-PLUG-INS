@@ -1,0 +1,1 @@
+https://api.music.lerd.dpdns.org/mf.json

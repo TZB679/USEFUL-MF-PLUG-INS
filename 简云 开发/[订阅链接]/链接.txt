@@ -1,0 +1,5 @@
+简云所使用的API
+https://api.vsaa.cn/
+
+简云插件仓库
+https://gitee.com/janyun/music-free-plugin

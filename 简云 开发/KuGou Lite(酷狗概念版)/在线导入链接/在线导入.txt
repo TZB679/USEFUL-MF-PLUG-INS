@@ -1,0 +1,1 @@
+http://api.vsaa.cn/musicfree/kugou.lite.js
